@@ -1,0 +1,85 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Which describes a 'change authority'?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "A model used to determine who will assess a change",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A person who approves a change",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "A tool used to help changes",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "text": "A way to manage the people aspects of change",
+          "correct": false
+        }
+      ],
+      "timesAnsweredCorrectly": 0
+    },
+    {
+      "id": 2,
+      "questionText": "What do customer perceptions and business outcomes help to define?",
+      "answers": [
+        {
+          "id": 5,
+          "text": "The value of a service",
+          "correct": true
+        },
+        {
+          "id": 6,
+          "text": "Service metrics",
+          "correct": false
+        },
+        {
+          "id": 7,
+          "text": "The total cost of a service",
+          "correct": false
+        },
+        {
+          "id": 8,
+          "text": "Key performance indicators (KPIs)",
+          "correct": false
+        }
+      ],
+      "timesAnsweredCorrectly": 0
+    },
+    {
+      "id": 3,
+      "questionText": "Which MOST helps an organization adapt ITIL concepts so that they apply to the organization's specific circumstances?",
+      "answers": [
+        {
+          "id": 9,
+          "text": "Continual improvement",
+          "correct": true
+        },
+        {
+          "id": 10,
+          "text": "Service value chain",
+          "correct": false
+        },
+        {
+          "id": 11,
+          "text": "Practices",
+          "correct": false
+        },
+        {
+          "id": 12,
+          "text": "Guiding principles",
+          "correct": false
+        }
+      ],
+      "timesAnsweredCorrectly": 0
+    }
+  ]
+}

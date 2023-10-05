@@ -1,26 +1,28 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <QuizSite msg="Welcome to ITIL quiz"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import QuizSite from './components/QuizSite.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    QuizSite
   }
 }
 </script>
 
 <style>
 #app {
+
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
 }
 </style>
